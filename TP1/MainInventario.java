@@ -19,5 +19,9 @@ public class MainInventario{
         monitor.actualizarPrecio(30000.00);
         monitor.mostrarFicha();
 
+        Producto copia = mouse;
+        copia.stock = 12;
+        System.out.println("Stock de copia: " + copia.stock);
+        System.out.println("Stock de mouse (original): " + mouse.stock);
     }
 }
