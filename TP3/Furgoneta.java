@@ -1,3 +1,4 @@
+package TP3;
 public class Furgoneta extends Vehiculo {
     private boolean tieneRefrigeracion;
 

@@ -1,3 +1,4 @@
+package TP3;
 public class Camion extends Vehiculo {
     private double capacidadToneladas;
 

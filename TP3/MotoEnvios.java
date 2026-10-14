@@ -1,3 +1,4 @@
+package TP3;
 public class MotoEnvios extends Vehiculo {
 
     public MotoEnvios(String patente, String marca, double costoBaseKm) {
